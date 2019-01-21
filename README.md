@@ -6,7 +6,7 @@ The objective of this workshop is to build a working machine learning (ML) model
 In order to run this workshop you must have IBM SPSS Modeler intalled on your computer (PC or Mac). If you don't have a copy of IBM SPSS Modeler, check below 
 
 **Obtaining a copy of IBM SPSS Modeler**
-1. Get a 30 day free IBM SPSS Modeler trial version from the [IBM website] (https://www.ibm.com/account/reg/signup?formid=urx-19947) - via IBM Watson Studio Desktop trial
+1. Get a 30 day free IBM SPSS Modeler trial version from the [IBM website](https://www.ibm.com/account/reg/signup?formid=urx-19947) - via IBM Watson Studio Desktop trial
 2. IBM SPSS Modeler student edition for students and professors via [On the Hub](https://ibm.onthehub.com/WebStore/OfferingDetails.aspx?o=3c9603d0-ddb8-e711-80f7-000d3af41938)
 3. Use the IBM Digital Technical Enablement (DTE) [IBM SPSS Modeler virtual environment](https://www.ibm.com/cloud/garage/dte/tutorial/create-and-train-machine-learning-model-without-coding)
 
