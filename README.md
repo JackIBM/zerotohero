@@ -12,7 +12,7 @@ In order to run this workshop you must have IBM SPSS Modeler intalled on your co
 
 **This repository contains the following assets for running the workshop**
 1. ![Workbook](Workbook)
-2. ![Data](data)
+2. ![Data](Data)
 
 
 **Workshop setup**
