@@ -20,13 +20,13 @@ In order to run this workshop you must have IBM SPSS Modeler intalled on your co
 
 **Workshop setup**
 1. Open IBM SPSS Modeler om your Mac or PC (or use the virtual environment mentioned above)
-2. Download the workbook and the [data](https://github.com/JackIBM/zerotohero/tree/master/Data) needed for the workshop
+2. Download the [workbook](https://github.com/JackIBM/zerotohero/blob/master/Workbook/IBM_SPSS_Modeler_Tutorial_workbook.pdf) and the [data](https://github.com/JackIBM/zerotohero/tree/master/Data) needed for the workshop
 3. Open the workbook (PDF) and follow the steps to complete the workshop
 
 
 **Workshop**
 
-The workhop consists of the following steps which are all outlined in the workbook.
+The workhop consists of the following steps which are all outlined in the [workbook](https://github.com/JackIBM/zerotohero/blob/master/Workbook/IBM_SPSS_Modeler_Tutorial_workbook.pdf).
 1. Connect, merge and augment the data sources
 2. Exploratory Data Analyses (EDA)
 3. Build the ML model
@@ -35,7 +35,10 @@ The workhop consists of the following steps which are all outlined in the workbo
 
 Once you have completed the workshop the end result will look like the screenshot below.
 
+
 # ENJOY !!!
+
+![](pics/completed_workshop.jpg)
 
 
 
