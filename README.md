@@ -25,13 +25,18 @@ In order to run this workshop you must have IBM SPSS Modeler intalled on your co
 
 
 **Workshop**
+
 The workhop consists of the following steps which are all outlined in the workbook.
 1. Connect, merge and augment the data sources
 2. Exploratory Data Analyses (EDA)
-3. Split the data set
-4. Build the ML model
-5. Evaluate and visualize the ML model performance
-6. Make predictions on a new data set
+3. Build the ML model
+4. Evaluate and visualize ML model performance
+5. Make predictions on a new data set
+
+Once you have completed the workshop the end result will look like the screenshot below.
+
+#ENJOY !!!
+
 
 
 
