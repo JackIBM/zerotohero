@@ -2,7 +2,9 @@
 
 **Objective**
 
-The objective of this workshop is to build a working machine learning (ML) model using IBM SPSS Modeler in 30 minutes. 
+The objective of this workshop is to build a working machine learning (ML) model in 30 minutes without coding using IBM SPSS Modeler. You’ll build a model that will help to predict the customer churn (customers leaving the company) for a telecommunications company (telco). 
+
+
 In order to run this workshop you must have IBM SPSS Modeler intalled on your computer (PC or Mac). If you don't have a copy of IBM SPSS Modeler, check below 
 
 **Obtaining a copy of IBM SPSS Modeler**
@@ -13,16 +15,23 @@ In order to run this workshop you must have IBM SPSS Modeler intalled on your co
 **This repository contains the following assets for running the workshop**
 1. ![Workbook](Workbook)
 2. ![Data](Data)
+3. ![Solution](Solution)
 
 
 **Workshop setup**
 1. Open IBM SPSS Modeler om your Mac or PC (or use the virtual environment mentioned above)
-2. Download the workbook and the data needed for the workshop
+2. Download the workbook and the [data](https://github.com/JackIBM/zerotohero/tree/master/Data) needed for the workshop
 3. Open the workbook (PDF) and follow the steps to complete the workshop
 
 
 **Workshop**
-1. Follow the agenda in the presentation 
+The workhop consists of the following steps which are all outlined in the workbook.
+1. Connect, merge and augment the data sources
+2. Exploratory Data Analyses (EDA)
+3. Split the data set
+4. Build the ML model
+5. Evaluate and visualize the ML model performance
+6. Make predictions on a new data set
 
 
 
